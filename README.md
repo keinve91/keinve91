@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi , I'm Kevin Brian Joel Cruz </b><img src="https://giphy.com/gifs/vamosriver-riverplategaming-riverplategames-eK7gQ22EAn7OEY16BO.gif" width="35"></h1>
+<h1 align="center"><b>Hi , I'm Kevin Brian Joel Cruz </b><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjZ2YnVrdmxuM204cGV5enVudGkybDEwdmtsdDZ6ZW0xeTlqcGhpcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eK7gQ22EAn7OEY16BO/giphy.gif" width="35"></h1>
 <!--  -->A
 
 <!--
