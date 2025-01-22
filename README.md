@@ -1,5 +1,14 @@
-<h1 align="center"><b>Hi , I'm Kevin Brian Joel Cruz </b><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExajFsaG9nNDg2YXkwZW40dDl1YzRiaW40YmJvdmp6YWtrOGpsdjFlaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/nCL64jd3BBTvopA36K/giphy.gif" width="35"></h1>
-<!--  -->A
+<h1 align="center"><b>Hi , I'm Kevin Brian Joel Cruz </b><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExODV2ZDhhOHl3NDB5MDZpNWowc2FmYXNqOGJmaWtrMDRnNHM1amV5ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IbmTkriglW2a5PERP7/giphy.gif" width="45"></h1>
+<!--  -->
+<p align="center">
+  <a href="https://github.com/keinve91?tab=repositories"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=I+am+Cruz+Kevin+Brian+Joel..&hearts;++;Analyst+University+Programmer+student,;Love+to+learn+new+stuffs..<3"></a>
+</p>
+
+About me🧑:
+
+- I am a University Analyst Programmer (APU) student at the National University of Jujuy (UNJU).
+- I am learning Java and Python.
+
 
 <!--
 **keinve91/keinve91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
