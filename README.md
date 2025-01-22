@@ -3,8 +3,8 @@
 <p align="center">
   <a href="https://github.com/keinve91?tab=repositories"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=I+am+Cruz+Kevin+Brian+Joel..&hearts;++;Analyst+University+Programmer+student,;Love+to+learn+new+stuffs..<3"></a>
 </p>
-
-About me🧑:
+<!--  -->
+<h2 align="left">About me:</h2>
 
 - I am a University Analyst Programmer (APU) student at the National University of Jujuy (UNJU).
 - I am learning Java and Python.
